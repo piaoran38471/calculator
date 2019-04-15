@@ -1,0 +1,55 @@
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csproj.GenerateResource.Cache
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\SYD_COPY_FILE\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csproj.GenerateResource.Cache
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csprojResolveAssemblyReference.cache
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\SYD_COPY_FILE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csprojResolveAssemblyReference.cache
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csproj.GenerateResource.Cache
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\SYD_COPY_FILE\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csprojResolveAssemblyReference.cache
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csproj.GenerateResource.Cache
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application

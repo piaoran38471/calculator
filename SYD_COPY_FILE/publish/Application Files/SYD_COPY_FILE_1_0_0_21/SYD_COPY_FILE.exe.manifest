@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SYD_COPY_FILE.exe" version="1.0.0.21" publicKeyToken="d9ea7b281386e08c" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="logo_48X48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SYD_COPY_FILE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SYD_COPY_FILE.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SYD_COPY_FILE.exe" size="241152">
+      <assemblyIdentity name="SYD_COPY_FILE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>6D+VkDWqmCosQbwFoUh7/KnsnHc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="logo_48X48.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cOo4f5S0tFyn8d3JKq6YQ5JRHbk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=syd_tek" issuerKeyHash="07ad9b27ab9119eedadf1237193a9ea2a44b7bff" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1TM9xlbZYMGEtbKSHxtHCOfNFIk=</DigestValue></Reference></SignedInfo><SignatureValue>g9i3lvcdWxEAtjiBfgb2QdIbvbepq7kI8feFkx32X9r8NTfkK9fj1cThvWnw/GnBcGJtmfUzd0mghsQr/2qW2QAgYj/dJU6s0SZJ2XYYnykQuGLH9CvwytApUHNi4e4jqfAWHAuDXmZG8kja19xhp4tt7+NtZT+5AqCD0dWUEBk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>q4bAz+xDNS4NVtAj1bkL4Wzkn8wlDXTPgcL3rCbjGhBgk3mxcGSE01fomaNyMXMXkRXLiSZ30jnzKcf2qXUksBoeHKS6ox0GLRsOXZt8EBGYyt1gtuyw5wP3LjsNhG9Y3afrFPE3iLBLBV82LCL3Z5mBK8jBXJwQNtJBOLpzRiM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8914cde708471b1f92b2b584c160d956c63d33d5" Description="" Url=""><as:assemblyIdentity name="SYD_COPY_FILE.exe" version="1.0.0.21" publicKeyToken="d9ea7b281386e08c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=syd_tek</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FgxJqHStof/pl5RaYLOsnJ9fo9Q=</DigestValue></Reference></SignedInfo><SignatureValue>dM/4hO0HJOOt+C4MwWQ46gY0IpiIazoxla+TCaNPAJCqXLOGNZHx01KAxEaWkbVuaxSQw6HnyQ4jbWyP6soVyEtGDCohSsE8MoeTKjQb4SxMoKZs7VsqaxDbDm0WQIDlazTMGSGGcc8YIjt5zuu2SZ5GVA96dh+lB+8ibNtZaBk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>q4bAz+xDNS4NVtAj1bkL4Wzkn8wlDXTPgcL3rCbjGhBgk3mxcGSE01fomaNyMXMXkRXLiSZ30jnzKcf2qXUksBoeHKS6ox0GLRsOXZt8EBGYyt1gtuyw5wP3LjsNhG9Y3afrFPE3iLBLBV82LCL3Z5mBK8jBXJwQNtJBOLpzRiM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICGjCCAYOgAwIBAgIQ8u4Dnc54D65Dn20WwGS8ajANBgkqhkiG9w0BAQUFADAZMRcwFQYDVQQDHg4AcwB5AGQAXwB0AGUAazAeFw0xNzEyMzExNjAwMDBaFw0yMzEyMzExNjAwMDBaMBkxFzAVBgNVBAMeDgBzAHkAZABfAHQAZQBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrhsDP7EM1Lg1W0CPVuQvhbOSfzCUNdM+BwvesJuMaEGCTebFwZITTV+iZo3IxcxeRFcuJJnfSOfMpx/apdSSwGh4cpLqjHQYtGw5dm3wQEZjK3WC27LDnA/cuOw2Eb1jdp+sU8TeIsEsFXzYsIvdnmYEryMFcnBA20kE4unNGIwIDAQABo2MwYTATBgNVHSUEDDAKBggrBgEFBQcDAzBKBgNVHQEEQzBBgBA5cZ+Ui6uabCNlwTOT6g6woRswGTEXMBUGA1UEAx4OAHMAeQBkAF8AdABlAGuCEPLuA53OeA+uQ59tFsBkvGowDQYJKoZIhvcNAQEFBQADgYEABgffyTobRkHTXd3wYXBDI59dv37ZnrUpg6eQNG4S0zj4msVelIxw4wpWjA1t0+y5L8txQeaZDsK7ZDHeZ8XuIA/Pxdodjqdhb0v3O9nJ1G03CioH53ZvTpH0mO022UTZd9NicitIRQTJTNMvLySYtsQAQfJAX+w4jmam5r8wevI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

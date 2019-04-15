@@ -1,0 +1,198 @@
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+C:\Users\Administrator\Desktop\2.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\3.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\3.SYD_COPY_FILE_clear old catalog\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\SYD_COPY_FILE\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\SYD_COPY_FILE\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\1.SYD_Calculator2018-4-16\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\2.dec and hex cal\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\3.latency\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\3.latency\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\3.latency\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\3.latency\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\3.latency\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\4.adv time point\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\5.struct analysis\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\6.bin and rgb\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\7.generate data\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\8.C\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\9.BLE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\9.BLE\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\9.BLE Difference\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\10.disconnect\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\11.copy file\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\12.rename\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.config
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\13.save setting\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.config
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.application
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.exe
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\bin\Debug\SYD_COPY_FILE.pdb
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csprojResolveAssemblyReference.cache
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Form1.resources
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.Properties.Resources.resources
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_Calculator.csproj.GenerateResource.Cache
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.exe.manifest
+F:\SYD8801\tool\calculator\14.new size\SYD_COPY_FILE\obj\x86\Debug\SYD_COPY_FILE.application

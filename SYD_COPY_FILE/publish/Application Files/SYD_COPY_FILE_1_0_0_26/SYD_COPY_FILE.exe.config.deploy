@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="SYD_COPY_FILE.Settings1" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <SYD_COPY_FILE.Settings1>
+            <setting name="arr_data_type" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="arr_font_type" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="arr_fun_sel" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="arr_source_file_text" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="arr_extract_len" serializeAs="String">
+                <value />
+            </setting>
+        </SYD_COPY_FILE.Settings1>
+    </userSettings>
+</configuration>
